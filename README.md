@@ -1,40 +1,93 @@
-<h1 align="center">Hi 👋, I'm Drew Piispanen</h1>
-<h3 align="center">A backend consultant, developer and bootstrapper from Boston</h3>
+<h1 align="center">Hi, I'm Drew Piispanen 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apiispanen&label=Profile%20views&color=0e75b6&style=flat" alt="apiispanen" /> </p>
+<h3 align="center">Backend consultant, developer, and bootstrapper building AI-enabled software products.</h3>
 
-- 🔭 I’m currently building [Dolphin Studios LLC](https://dolphinstudios.co/)
-
-- 👯 I’m looking for startups who need both an architect and team to [build their idea and bring it to life](https://dolphinstudios.co/about/)
-
-- 💬 Ask me about **Building APIs for your AI application**
-
-- 📫 How to reach me: **engage@dolphinstudios.co**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/droopycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="droopycodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/drew-piispanen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drew-piispanen" height="30" width="40" /></a>
-<a href="https://medium.com/@andrewpiispanen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andrewpiispanen" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dolphinstudios.co/">Dolphin Studios</a> •
+  <a href="https://dolphinstudios.co/about/">Work With Me</a> •
+  <a href="mailto:engage@dolphinstudios.co">engage@dolphinstudios.co</a>
 </p>
 
-<h3 align="left">Our Clients:</h3>
-<ul>
-    <li><a href="https://shiftpixy.com/" target="_blank">Shiftpixy</a></li>
-    <li><a href="https://www.resolvd.ai/" target="_blank">Resolvd.ai</a></li>
-    <li><a href="https://leadoff.ai/" target="_blank">Leadoff.ai</a></li>
-    <li><a href="https://apps.apple.com/us/app/spinnr-meet-new-friends/id1637873205" target="_blank">Spinnr</a></li>
-    <li><a href="https://larq.ai/" target="_blank">Larq.ai</a></li>
-</ul>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=apiispanen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+---
 
-<h3 align="left">My Solo Projects:</h3>
-<p style="display:inline"><a href="https://ringledingle.com/" target="_blank">RingleDingle: Ultra-Personalized Greeting Cards</a></p>
-<p style="display:inline"><a href="https://github.com/apiispanen/networker" target="_blank">Networker: An AI-powered Voice-First CRM</a></p>
-<p style="display:inline"><a href="https://github.com/apiispanen/biohacker" target="_blank">Biohacker: Machine Learning Mood Tracking</a></p>
+## What I'm Building
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm currently building [Dolphin Studios LLC](https://dolphinstudios.co/), a software development company focused on backend systems, AI-enabled APIs, automation tools, and rapid product development.
 
-<h3 align="left">Learn More:</h3>
-<p><a href="https://dolphinstudios.co/"> <img align="left" src="https://dolphinstudios.co/wp-content/uploads/2024/04/Horizontal-White-Transparent.png"  width="210" alt="DolphinStudios" /></a></p><br><br>
+I work with startups and businesses that need both technical architecture and a team to help [build their idea and bring it to life](https://dolphinstudios.co/about/).
+
+**Ask me about:** building APIs, AI applications, backend architecture, automation, and early-stage software products.
+
+---
+
+## Connect
+
+<p>
+  <a href="https://twitter.com/droopycodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/drew-piispanen" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@andrewpiispanen" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## Clients & Projects
+
+### Dolphin Studios Clients
+
+- [Shiftpixy](https://shiftpixy.com/)
+- [Resolvd.ai](https://www.resolvd.ai/)
+- [Leadoff.ai](https://leadoff.ai/)
+- [Spinnr](https://apps.apple.com/us/app/spinnr-meet-new-friends/id1637873205)
+- [Larq.ai](https://larq.ai/)
+
+### Solo Projects
+
+- [RingleDingle](https://ringledingle.com/) — Ultra-personalized greeting cards
+- [Networker](https://github.com/apiispanen/networker) — AI-powered voice-first CRM
+- [Biohacker](https://github.com/apiispanen/biohacker) — Machine learning mood tracking
+
+---
+
+## Languages & Tools
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+</p>
+
+---
+
+## Learn More
+
+<p>
+  <a href="https://dolphinstudios.co/">
+    <img src="https://dolphinstudios.co/wp-content/uploads/2024/04/Horizontal-White-Transparent.png" width="240" alt="Dolphin Studios" />
+  </a>
+</p>
